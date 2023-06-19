@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, and Tailwind CSS.**
 
-- 📝 I regularly write articles on [https://medium.com/@michaelbtimm](https://medium.com/@michaelbtimm)
+- 📝 I occasionally write articles on [https://medium.com/@michaelbtimm](https://medium.com/@michaelbtimm)
 
 - 📫 How to reach me **michaelbtimm@gmail.com**
 
