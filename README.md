@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **michaelbtimm@gmail.com**
 
-- ⚡ Fun fact **I come from a commercial production background, and used to create a lot of content used around in advertising the world**
+- ⚡ Fun fact **I come from a commercial production background, and used to create a lot of content used in advertising around the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
